@@ -23,7 +23,7 @@ A real-time collaborative coding space with multi-language support. Allowing use
 ![App Screenshot](./2.png)
 ## Tech Stack
 
-**FrontEnd:** React, HTML and CSS  
+**FrontEnd:** React, HTML, CSS  
 **BackEnd:** NodeJS, SocketIO  
 
 ## Run Locally
