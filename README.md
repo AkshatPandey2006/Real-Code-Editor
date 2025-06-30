@@ -25,7 +25,6 @@ A real-time collaborative coding space with multi-language support. Allowing use
 
 **FrontEnd:** React, HTML and CSS  
 **BackEnd:** NodeJS, SocketIO  
-**API:** Piston
 
 ## Run Locally
 
