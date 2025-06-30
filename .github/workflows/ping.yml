@@ -10,4 +10,4 @@ jobs:
 
     steps:
       - name: Send HTTP Request
-        run: curl -I https://real-code-editor.onrender.com/
+        run: curl -I https://real-code-editor-4yx6.onrender.com/
