@@ -14,7 +14,7 @@ A real-time collaborative coding space with multi-language support. Allowing use
 
 - Multiple Users can Join the Same Room
 - Real Time Update for all Users
-- Run the Code Then and There
+- Multi-Language Support
 
 
 ## Screenshots
