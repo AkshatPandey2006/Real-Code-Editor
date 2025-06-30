@@ -11,8 +11,6 @@ A real-time collaborative coding space with multi-language support. Allowing use
 
 **Hosted Link:** https://real-code-editor-4yx6.onrender.com/
 
-https://github.com/user-attachments/assets/12c528b6-947c-43a3-8094-0566216955a7
-
 ## Features
 
 - Multiple Users can Join the Same Room
