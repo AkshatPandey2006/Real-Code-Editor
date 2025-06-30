@@ -2,7 +2,7 @@ name: Keep Render Active
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Runs every hour at the top of the hour
+    - cron: '*/10 * * * *'  # Runs every hour at the top of the hour
 
 jobs:
   ping:
